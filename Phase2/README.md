@@ -31,7 +31,7 @@ PlayerMarketValuePredictor/Phase 2
 ├── requirements.txt          # Project dependencies
 ├── README.md                 # This file
 ├── Phase 2 Report            # PDF report of this phase
-├── Reference Notebook.ipynb  # Notebook which was the base to modularize the scripts
+├── notebooks/Reference Notebook.ipynb  # Notebook which was the base to modularize the scripts
 ├── models/
 │   ├── player_values.joblib  # Saved linear regression model
 │   └── age_scaler.joblib     # Pre-fitted feature scaler
